@@ -1,0 +1,2 @@
+File Structure Setup:
+    -Important: The top directory must either contain subdirectories that contain the html files, or the top directory itself must contain all the html files.  Don't do both.
